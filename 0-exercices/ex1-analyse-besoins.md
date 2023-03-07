@@ -10,7 +10,7 @@ En équipe :
 - Faites des recherches sur le **métier de photographe** et/ou du **domaine** .
 - Étudiez et identifiez les **avantages et contraintes technologiques** du site actuel (site web et blog du client, [lien pour identifier le CMS utilisé et d'autres infos](https://whatcms.org)).
 
-2. Réfléchissez aux **solutions envisageables** pour répondre aux besoins du client.
+2. Réfléchissez aux **solutions envisageables (*site, application mobile, CRM, logiciel, etc.*)** pour répondre aux besoins du client.
 - Réalisez un **tableau comparatif (matrice de décision)** de vos solutions en définissant vos critères de sélection en rapport aux besoins du client ;
 - Pondérez les critères de 1 à 5
 - Attribuez un score de 1 à 5 à chaque critère et solution ;
@@ -18,7 +18,9 @@ En équipe :
 
 ### Illustration matrice de décision
 
-Vous pouvez vous appuyer sur la matrice ci-après.
+Vous pouvez vous appuyer sur la matrice ci-après comme modèle.
+Vous pouvez également créer votre propre matrice avec vos propres critères.
+
 ![matrice_decision](./img/matrice_decision.png)
 
 ---
