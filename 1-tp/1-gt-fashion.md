@@ -32,5 +32,8 @@ Pour consolider ses relations avec ses partenaires et générer du trafic sur le
 A partir des besoins exprimés par le client ci-après et de votre projet JIRA sur ce client, faites : 
 
 - Une analyse des besoins (complétez par rapport à ce que vous avez déjà effectué);
+- un SWOT ;
 - Une analyse des risques ;
+- Une reunion à préparer ; 
 - Une matrice de décision des solutions envisageables.
+- Le choix d'une solution ;

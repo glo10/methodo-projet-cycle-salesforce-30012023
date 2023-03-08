@@ -32,9 +32,7 @@ La méthode d'[Extreme Quotation](https://blog.myagilepartner.fr/index.php/2017/
 
 2.4 Estimez le nombre de complexité que votre équipe peut réaliser au cours d'un sprint, en déduire le nombre total des sprints nécessaires pour réaliser l'intégralité des éléments présents dans votre Product Backlog.
 
-2.5 Établissez le **Burndown Chart** idéal à partir du [lien suivant](https://easyretro.io/burndown-chart-generator/).
-
-2.6 Calculez le budget prévisionnel sans appliquer la marge commerciale pour le moment.
+2.5 Calculez le budget prévisionnel du premier sprint sans appliquer la marge commerciale pour le moment de votre premier sprint.
 - Pour les salaires, utilisez les données de [talent.com](https://fr.talent.com/salary);
 - Pour les cotisations sociales, utilisez le simulateur de [Pole emploi](https://entreprise.pole-emploi.fr/cout-salarie/);
 

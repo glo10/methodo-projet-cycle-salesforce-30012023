@@ -44,16 +44,14 @@ PS : tenir compte des éléments suivants si vous avez opté pour une méthode a
 
 ## Rappel de l'offre
 
-Je viens de créer un site web en utilisant wordpress et formidable forms.
-L'activité du site est du Ibuying immobilier (semblable à Homeloop.fr, Dili.fr)
-Le concept : Sur le site, l'utilisateur décrit le bien immobilier qu'il souhaite me vendre (formulaire formidable forms), ensuite nous le contactons pour faire une offre sur ce bien (email), puis nous visitons le bien et confirmons notre offre d'achat.
+Je suis un photographe indépendant et j'ai besoin d'un CRM adapté à mes besoins.
+- gestion des clients (nom, courriel, adresse postale, téléphone, sexe, date de naissance, réseaux sociaux, etc.)
+- système de signature de contrats
+- gestion des dossiers /projets (séances)
+- gestion des événements (vue des séances sur calendrier)
 
-Je souhaite pour la gestion des clients avoir un CRM qui :
-- Récupérera les contacts et description des biens faites sur le site de manière automatique.
-- Créera une fiche bien avec ces informations dans le crm.
-A partir du crm effectuer les réponses email sur base de modèles prédéfinis (6 types de réponses)
-Le crm devra aussi permettre de suivre simplement les différentes étapes de la conclusion avec le client (8 étapes)
+[Lien de l'appel d'offre](https://www.codeur.com/projects/330179-creation-d-un-crm)
 
-J'aimerais avoir la solution prête pour Janvier 2021...
+PS : *ne vous fiez pas au budget indicatif indiqué sur le site, il s'agit du prix par défaut lorsque le client n'a pas spécifié cette info*.
 
-[Lien de l'offre](https://www.codeur.com/projects/272776-creer-ou-integrer-un-crm-immobilier)
+[Le site web actuel du client](https://justinehphotography.com/)
