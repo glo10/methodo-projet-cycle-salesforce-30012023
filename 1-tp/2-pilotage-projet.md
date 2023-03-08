@@ -1,4 +1,4 @@
-# TP gestion de projet : pilotage d'un projet
+# TP 2 : pilotage d'un projet
 
 ---
 

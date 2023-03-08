@@ -185,7 +185,7 @@ Toutes les hypothèses émisent ci-après sous à lever en collaborant avec notr
 #### Contre-mesures de réparation
 
 - Faire appel à de la sous-traitance
-- Former les équipes à la création des API REST
+- Former les équipes à la création des API REST (permet de partager des données entre plusieurs applications)
 
 ---
 

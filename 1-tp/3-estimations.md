@@ -1,4 +1,4 @@
-# Exercice 5 : estimations des tâches
+# TP 3 : Planification et budget
 
 ---
 
@@ -19,22 +19,26 @@
 
 1. En tenant compte des nouveaux éléments apportés par le client et de vos travaux précédents, choisissez la **méthodologie de gestion de projet** la plus adaptée à appliquer pour ce projet.
 
-### Uniquement pour le choix de la méthode SCRUM
+---
 
-2.1 **Constituez votre Product Backlog** .
+### Uniquement pour le choix du framework SCRUM
+
+2.1 **Lancez votre premier Sprint en établissant l'objectif du premier sprint + les items permettant de répondre à cet objectif **. Exceptionnellement, le plan d'action n'est pas à établir. Gardez toujours à l'esprit que vous devez chercher à livrer un increment opérationnel et qui a de la valeur dès le premier sprint.
 
 2.2 Utilisez **le Planning Poker** pour estimer la totalité de votre Product Backlog.
 La méthode d'[Extreme Quotation](https://blog.myagilepartner.fr/index.php/2017/04/19/extreme-quotation/) est plus adaptée mais difficile de mettre en place dans notre contexte.
 
 2.3 Déterminez la durée des sprints (entre 1 et 4 semaines).
 
-2.4 Estimez le nombre de complexité que votre équipe peut réaliser au cours d'un sprint, en déduire le nombre total des sprints nécessaire pour réaliser l'intégralité des éléments présents dans votre Product Backlog.
+2.4 Estimez le nombre de complexité que votre équipe peut réaliser au cours d'un sprint, en déduire le nombre total des sprints nécessaires pour réaliser l'intégralité des éléments présents dans votre Product Backlog.
 
 2.5 Établissez le **Burndown Chart** idéal à partir du [lien suivant](https://easyretro.io/burndown-chart-generator/).
 
 2.6 Calculez le budget prévisionnel sans appliquer la marge commerciale pour le moment.
 - Pour les salaires, utilisez les données de [talent.com](https://fr.talent.com/salary);
 - Pour les cotisations sociales, utilisez le simulateur de [Pole emploi](https://entreprise.pole-emploi.fr/cout-salarie/);
+
+---
 
 ### Uniquement pour le choix du cycle en V
 
@@ -81,40 +85,40 @@ La méthode d'[Extreme Quotation](https://blog.myagilepartner.fr/index.php/2017/
 
 1. Quels sont les objectifs de ce projet ?
 
-- J'aimerais tout simplement consacrer moins de temps dans la gestion de mon activité sur la partie client, contrats et séances photos. J'y consacre au moins 2 journées par semaine pour gérer mes clients, contrats et séances.
+- *J'aimerais tout simplement consacrer moins de temps dans la gestion de mon activité sur la partie client, contrats et séances photos. J'y consacre au moins 2 journées par semaine pour gérer mes clients, contrats et séances.*
 
 - *Ok, on pourrait également prévoir une demi-journée en immersion dans votre activité sur la partie gestion, afin d'avoir une idée plus précise d'une journée type.*
 
 2. Qu'est-ce vous entendez par gestion des clients ?
 
-- J'aimerais segmenter mes clients en plusieurs catégories (prospects, clients, clients fidèles, ambassadeurs et familles) et avoir des statistiques sur chaque catégorie.
+- *J'aimerais segmenter mes clients en plusieurs catégories (prospects, clients, clients fidèles, ambassadeurs et familles) et avoir des statistiques sur chaque catégorie.*
 
 3. Quels types de données voulez-vous que l'on restitue dans la solution à développer pour les statistiques sur vos clients ?
 
-- Pour être honnête, je n'y ai pas encore réfléchi.
+- *Pour être honnête, je n'y ai pas encore réfléchi.*
 - *On pourra préciser cela plus tard, je vous laisse le temps d'y réfléchir*.
 - *Nous pourrons également organiser un ***Brainstorming*** pour les déterminer ensemble*.
 
 5. Quel est pour vous le meilleur système de signature de contrats que l'on pourrait développer pour satisfaire entièrement vos besoins ?
 
-- J'effectue des prestations pour mes proches à des tarifs préférentiels, j'aimerais pouvoir les séparer du reste.
-Ensuite, j'ai plusieurs templates de contrat qui ont été réalisé par un cabinet de juriste pour mes différentes prestations. Je pré remplis les cases avec les informations du client, j'envoie par mail et j'attends que le client me renvoie le contrat signé. J'aimerais tout automatiser pour gagner du temps.
+- *J'effectue des prestations pour mes proches à des tarifs préférentiels, j'aimerais pouvoir les séparer du reste.
+Ensuite, j'ai plusieurs templates de contrat qui ont été réalisé par un cabinet de juriste pour mes différentes prestations. Je pré remplis les cases avec les informations du client, j'envoie par mail et j'attends que le client me renvoie le contrat signé. J'aimerais tout automatiser pour gagner du temps.*
 
 ### Restitution des autres besoins obtenus lors de ce même entretien
 
-- Lors des shootings (séances photos), j'aimerais que les photos puissent être mises à disposition facilement et rapidement aux clients, une fois qu'elles ont été retouchées sur le logiciel photo.
+- *Lors des shootings (séances photos), j'aimerais que les photos puissent être mises à disposition facilement et rapidement aux clients, une fois qu'elles ont été retouchées sur le logiciel photo.*
 
-- Pour le moment, le paiement se fait en physique après le shooting, lorsqu'ils doivent payer en plusieurs fois, on s'arrange comme on peut.
+- *Pour le moment, le paiement se fait en physique après le shooting, lorsqu'ils doivent payer en plusieurs fois, on s'arrange comme on peut.*
 
-- J'aimerais que les e-mails se déclenchent à des moments clés de mon activité pour mes clients, ça leur fait un rappel pour qu'il puisse respecter leurs engagements. J'aimerais passer moins de temps à faire des rappels pour les rendez-vous et les relances pour la facturation.
+- *J'aimerais que les e-mails se déclenchent à des moments clés de mon activité pour mes clients, ça leur fait un rappel pour qu'il puisse respecter leurs engagements. J'aimerais passer moins de temps à faire des rappels pour les rendez-vous et les relances pour la facturation.*
 
-- J'utilise Google Agenda au quotidien pour toute mon activité.
+- *J'utilise Google Agenda au quotidien pour toute mon activité.*
 
-- Je pense viser une clientèle à l'internationale du fait de ma localisation, j'ai de plus en plus des demandes des étrangers qui viennent se marier ou passer leur lune de miel à Paris. J'aurai peut-être besoin d'une nouvelle catégorie "internationale" mais je ne sais pas encore car je n'ai pas pu consacrer du temps à l'étude de cette opportunité.
+- *Je pense viser une clientèle à l'internationale du fait de ma localisation, j'ai de plus en plus des demandes des étrangers qui viennent se marier ou passer leur lune de miel à Paris. J'aurai peut-être besoin d'une nouvelle catégorie "internationale" mais je ne sais pas encore car je n'ai pas pu consacrer du temps à l'étude de cette opportunité.*
 
-- Je reporte toute mon activité sur un fichier Excel avec plusieurs onglets, cela me prend énormément de temps.
+- *Je reporte toute mon activité sur un fichier Excel avec plusieurs onglets, cela me prend énormément de temps.*
 
-- J'effectue ma comptabilité avec le site [l'expert-comptable](https://www.l-expert-comptable.com), j'en suis très satisfait, mais peut-être tout centraliser au même endroit.
+- *J'effectue ma comptabilité avec le site [l'expert-comptable](https://www.l-expert-comptable.com), j'en suis très satisfait, mais peut-être tout centraliser au même endroit.*
 
 ---
 
